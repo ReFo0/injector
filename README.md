@@ -15,4 +15,4 @@ LoadLibrary is a function within the Windows API. This function is used to load 
 
 ##
 
-![image](https://github.com/ReFo0/injector/assets/77904942/ef87434a-28fe-4a7a-b75a-13b7ee4aef12)
+![image](https://github.com/ReFo0/injector/assets/77904942/1915078c-b6bf-4523-a209-e0a3c7515169)
